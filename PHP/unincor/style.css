@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0; 
+}
+
+body {
+	text-align: center;
+	float: left;
+}
+
+.container {
+	text-align: center;
+	
+}
+
+.cadastro {
+	color: #fff;
+	border-radius: 8px;
+	padding: 10px;
+	background-color: #00829B;
+}
+
+.form-group {
+	border: 1px solid #00829B;
+	border-radius: 5px;
+	padding: 20px;
+}
